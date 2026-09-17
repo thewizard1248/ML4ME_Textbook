@@ -2,6 +2,8 @@
 
 This is a textbook repository for the ETHZ Machine Learning for Mechanical Engineering course.
 
+> **Persönlicher Einstieg auf Deutsch:** [START_HIER.md](START_HIER.md) erklärt die Kursstruktur, Kapitelreihenfolge und Einrichtung. Auf dem eingerichteten Mac startet [KURS_STARTEN.command](KURS_STARTEN.command) JupyterLab. Diese Ergänzungen stammen nicht vom Kursteam; die ursprüngliche Anleitung folgt unten.
+
 [![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IDEALLab/ML4ME_Textbook/main?urlpath=lab/tree/part1)
 
 ---
